@@ -1,4 +1,5 @@
 <section>
+	<section>
 	<h3>
 		2000-2005:  Web as Print
 	</h3>
@@ -14,6 +15,7 @@
 	<p>
 		An example of <a href="views/tables/index.html" target='_blank'>Table-based layout</a>
 	</p>
+	</section>
 	<section>
 		<h3>Upsides:</h3>
 		<ul><li>Better Layout and Organization of Content</li>
@@ -29,6 +31,9 @@
 		<li>Difficult to update, often requiring the designer to resubmit work.
 		<br/>Sidenote:  Great time to have been a designer.
 		</li>
+		<li>Using CGI (Common Gateway Interface) often relied upon very insecure PERL or C programs to 
+		deliver email.  High volumes of spam.</li>
+		<li>Hacked websites often delivered spam or viruses, a common Windows experience.</li>
 		</ul>
 	</section>
 </section>
