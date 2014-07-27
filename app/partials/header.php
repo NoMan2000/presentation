@@ -35,3 +35,7 @@
 		<script src="js/html5shiv.js"></script>
 		<![endif]-->
 	</head>
+	<body>
+		<div class="reveal">
+			<!-- Any section element inside of this container is displayed as a slide -->
+			<div class="slides">

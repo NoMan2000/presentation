@@ -1,3 +1,6 @@
+		</div><!-- End slides --> 
+	</div> <!-- End reveal -->
+
 <script src="js/head.min.js"></script>
 <script src="js/plugins.js"></script>
 <script>
@@ -29,3 +32,5 @@
 	});
 
 </script>	
+</body>
+</html>

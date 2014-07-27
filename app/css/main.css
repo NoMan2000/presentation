@@ -1,2 +1,6 @@
 .reveal p {
   text-align: left; }
+.reveal ul {
+  list-style-type: none; }
+.reveal li {
+  margin-bottom: 0.9em; }
